@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Sayi Tahmin Oyunu</string>
+        <string name="enter_guess">Enter your guess</string>
+        <string name="guess_button">Guess</string>
+        <string name="too_high">Tahmininiz çok yüksek! Daha düşük bir sayı deneyin.</string>
+        <string name="too_low">Tahmininiz çok düşük! Daha yüksek bir sayı deneyin.</string>
+        <string name="correct_guess">Tebrikler! Doğru tahmin ettiniz.</string>
+</resources>
